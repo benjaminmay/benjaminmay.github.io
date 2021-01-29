@@ -16,7 +16,7 @@ Vaccines
 ### Analysis + Conclusions
 I looked at the daily vaccinations, and the total vaccinations, of the United States, and compared the relationships between the two variables to Israel's relationships.
 
-The average daily vaccinations in the united States per time period is 4.924266e+05, with a standard deviation of 2.920803e+05. This is a very large standard deviation, which shows that the data varies greatly. The difference between the 50% and the 75% is the greatest difference for the percentiles, which shows that the data is mostly clumped on the lower end, but also has a clump, though not as large, at the upper end. Furthermore, this can be seen in the histogram below. There is one peak in the data, with it being in the second category, and there is a spike in the 6th one.The data is skewed slightly to the right, but nothing too major. 
+The average daily vaccinations in the United States per time period is 4.924266e+05, with a standard deviation of 2.920803e+05. This is a very large standard deviation, which shows that the data varies greatly. The difference between the 50% and the 75% is the greatest difference for the percentiles, which shows that the data is mostly clumped on the lower end, but also has a clump, though not as large, at the upper end. Furthermore, this can be seen in the histogram below. There is one peak in the data, with it being in the second category, and there is a spike in the 6th one.The data is skewed slightly to the right, but nothing too major. 
 
 
 ![USA daily vaccines](../USAHistogramDailyVaccinations.png)
@@ -29,7 +29,7 @@ The two variables have a very high positive correlation. It is 0.984468255600534
 
 ###### USA Graph
 
-![USA Graph](../USAGraph.png)
+![USA Graph](../UsaGraph.png)
 
 ###### Israel Graph
 
