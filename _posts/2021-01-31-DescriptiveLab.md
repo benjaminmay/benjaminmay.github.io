@@ -36,11 +36,11 @@ The two variables have a very high positive correlation. It is 0.984468255600534
 ![Israel Graph](../IsraelVacGraph.png)
 
 
-I can draw the conclusion that the United States and Israel are not stopping their growth in daily vaccinations yet. I expect this to happen in the future, but the data shows no indication of that happening.  It also shows that Israel and the United States have had no consistency with the amount of vaccines they gave daily. However, they both (mostly) consistently increased their daily vaccination rates. Israel faltered a bit, it may have had to do with priority residents already receiving the vaccine, but eventually recovered their vaccination increase trend. I was expecting Israel to have a steady amount of daily vaccinations for a period of time, but they never had that, showing that these countries are giving vaccines based on the amount they receive and can distribute without setting daily standards. 
+I can draw the conclusion that the United States and Israel are not stopping their growth in daily vaccinations yet. I expect this to happen in the future, but the data shows no indication of that happening.  It also shows that Israel and the United States have had no consistency with the amount of vaccines they gave daily. However, they both (mostly) consistently increased their daily vaccination rates. Israel faltered a bit, it may have had to do with priority residents already receiving the vaccine, but eventually recovered their vaccination increase trend. I was expecting Israel to have a steady amount of daily vaccinations for a period of time, but they never had that, showing that these countries are giving vaccines based on the amount they receive and can distribute without setting daily standards. The data I am citing can be seen in the charts thruoght this blog post. 
 
 
 
-### Additional Israel Graphs If You Are Interested
+### Additional Israel Graphs
 
 ![IsraelTotal](../IsraelTotalHistogram.png)
 ![IsraelDaily](../IsraelDailyHistogram.png)
